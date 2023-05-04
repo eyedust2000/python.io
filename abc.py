@@ -1,3 +1,3 @@
 #integer input
 age=int(input("Enter the age"));
-print(age);
+print("Your age is "+str(age));
